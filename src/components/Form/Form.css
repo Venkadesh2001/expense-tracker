@@ -1,0 +1,19 @@
+.form {
+    border: 1px solid #000;
+    margin-bottom: 16px;
+    padding: 16px;
+    text-align: center;
+}
+
+.actions {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    margin-bottom: 16px;
+}
+
+.remove-btn {
+    margin-left: 8px;
+}
